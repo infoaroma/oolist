@@ -16,6 +16,10 @@
     <display-name lang="pt">| TVI</display-name>
     <url>http://www.nos.pt</url>
   </channel>
+  <channel id="SICN">
+    <display-name lang="pt">| SIC NOTICIAS</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
   <programme start="20190511004900 +0100" stop="20190511030800 +0100" channel="| RTP 1">
     <title lang="pt">A Golpada</title>
     <category lang="pt">filmes</category>
@@ -1379,5 +1383,501 @@
     <title lang="pt">A Teia</title>
     <category lang="pt">entretenimento</category>
     <episode-num system="xmltv_ns">S2E149</episode-num>
+  </programme>
+  <programme start="20190511010000 +0100" stop="20190511012000 +0100" channel="SICN">
+    <title lang="pt">Primeira Página</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190511012000 +0100" stop="20190511014000 +0100" channel="SICN">
+    <title lang="pt">Vamos a Jogo</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S1E9</episode-num>
+  </programme>
+  <programme start="20190511014000 +0100" stop="20190511015000 +0100" channel="SICN">
+    <title lang="pt">Cartaz</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S3E93</episode-num>
+  </programme>
+  <programme start="20190511015000 +0100" stop="20190511015500 +0100" channel="SICN">
+    <title lang="pt">The Next Big Idea</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S7E45</episode-num>
+  </programme>
+  <programme start="20190511015500 +0100" stop="20190511025000 +0100" channel="SICN">
+    <title lang="pt">Panorama BBC</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20190511025000 +0100" stop="20190511031000 +0100" channel="SICN">
+    <title lang="pt">Primeira Página</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190511031000 +0100" stop="20190511040000 +0100" channel="SICN">
+    <title lang="pt">Expresso da Meia-Noite</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S10E17</episode-num>
+  </programme>
+  <programme start="20190511040000 +0100" stop="20190511041000 +0100" channel="SICN">
+    <title lang="pt">Boa Cama Boa Mesa</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S10E5</episode-num>
+  </programme>
+  <programme start="20190511041000 +0100" stop="20190511043000 +0100" channel="SICN">
+    <title lang="pt">Primeira Página</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190511043000 +0100" stop="20190511053000 +0100" channel="SICN">
+    <title lang="pt">O Eixo do Mal</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S11E19</episode-num>
+  </programme>
+  <programme start="20190511053000 +0100" stop="20190511054000 +0100" channel="SICN">
+    <title lang="pt">Cartaz</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S3E93</episode-num>
+  </programme>
+  <programme start="20190511054000 +0100" stop="20190511060000 +0100" channel="SICN">
+    <title lang="pt">Primeira Página</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190511060000 +0100" stop="20190511063000 +0100" channel="SICN">
+    <title lang="pt">Verdade ou Consequência</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E15</episode-num>
+  </programme>
+  <programme start="20190511063000 +0100" stop="20190511070000 +0100" channel="SICN">
+    <title lang="pt">Primeira Página</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190511070000 +0100" stop="20190511071500 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190511071500 +0100" stop="20190511073000 +0100" channel="SICN">
+    <title lang="pt">Contas Poupança</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S5E16</episode-num>
+  </programme>
+  <programme start="20190511073000 +0100" stop="20190511074500 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190511074500 +0100" stop="20190511080000 +0100" channel="SICN">
+    <title lang="pt">Golf Report</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S12E19</episode-num>
+  </programme>
+  <programme start="20190511080000 +0100" stop="20190511081500 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190511081500 +0100" stop="20190511083000 +0100" channel="SICN">
+    <title lang="pt">Futuro Hoje</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S5E12</episode-num>
+  </programme>
+  <programme start="20190511083000 +0100" stop="20190511084500 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190511084500 +0100" stop="20190511090000 +0100" channel="SICN">
+    <title lang="pt">Terra Emergente</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S3E11</episode-num>
+  </programme>
+  <programme start="20190511090000 +0100" stop="20190511091500 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190511091500 +0100" stop="20190511093000 +0100" channel="SICN">
+    <title lang="pt">Exame Informática</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S7E10</episode-num>
+  </programme>
+  <programme start="20190511093000 +0100" stop="20190511094500 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190511094500 +0100" stop="20190511100000 +0100" channel="SICN">
+    <title lang="pt">The Next Big Idea Magazine</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S7E9</episode-num>
+  </programme>
+  <programme start="20190511100000 +0100" stop="20190511104500 +0100" channel="SICN">
+    <title lang="pt">Jornal das Dez</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190511104500 +0100" stop="20190511110000 +0100" channel="SICN">
+    <title lang="pt">Espaços &amp; Casas</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S11E19</episode-num>
+  </programme>
+  <programme start="20190511110000 +0100" stop="20190511114500 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190511114500 +0100" stop="20190511120000 +0100" channel="SICN">
+    <title lang="pt">Boa Cama Boa Mesa</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S10E6</episode-num>
+  </programme>
+  <programme start="20190511120000 +0100" stop="20190511140000 +0100" channel="SICN">
+    <title lang="pt">Especial Desporto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190511140000 +0100" stop="20190511144500 +0100" channel="SICN">
+    <title lang="pt">Jornal das Duas</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190511144500 +0100" stop="20190511150000 +0100" channel="SICN">
+    <title lang="pt">Volante</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S17E4</episode-num>
+  </programme>
+  <programme start="20190511150000 +0100" stop="20190511160000 +0100" channel="SICN">
+    <title lang="pt">O Eixo do Mal</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S11E19</episode-num>
+  </programme>
+  <programme start="20190511160000 +0100" stop="20190511164500 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190511164500 +0100" stop="20190511170000 +0100" channel="SICN">
+    <title lang="pt">Cartaz - Especial Fim de Semana</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S3E18</episode-num>
+  </programme>
+  <programme start="20190511170000 +0100" stop="20190511174500 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190511174500 +0100" stop="20190511180000 +0100" channel="SICN">
+    <title lang="pt">Imagens de Marca</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S13E19</episode-num>
+  </programme>
+  <programme start="20190511180000 +0100" stop="20190511203000 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190511203000 +0100" stop="20190511204500 +0100" channel="SICN">
+    <title lang="pt">Vamos a Jogo</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S1E9</episode-num>
+  </programme>
+  <programme start="20190511204500 +0100" stop="20190511210000 +0100" channel="SICN">
+    <title lang="pt">Futuro Hoje</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S5E12</episode-num>
+  </programme>
+  <programme start="20190511210000 +0100" stop="20190511220000 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190511220000 +0100" stop="20190512000000 +0100" channel="SICN">
+    <title lang="pt">Jornal de Sábado</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512000000 +0100" stop="20190512010000 +0100" channel="SICN">
+    <title lang="pt">Jornal da Meia-Noite</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512010000 +0100" stop="20190512013000 +0100" channel="SICN">
+    <title lang="pt">Verdade ou Consequência</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E16</episode-num>
+  </programme>
+  <programme start="20190512013000 +0100" stop="20190512020000 +0100" channel="SICN">
+    <title lang="pt">60 Minutos</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S9E32</episode-num>
+  </programme>
+  <programme start="20190512020000 +0100" stop="20190512021500 +0100" channel="SICN">
+    <title lang="pt">Cartaz - Especial Fim de Semana</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S3E18</episode-num>
+  </programme>
+  <programme start="20190512021500 +0100" stop="20190512024500 +0100" channel="SICN">
+    <title lang="pt">Vida Extra</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E19</episode-num>
+  </programme>
+  <programme start="20190512024500 +0100" stop="20190512031500 +0100" channel="SICN">
+    <title lang="pt">Verdade ou Consequência</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E16</episode-num>
+  </programme>
+  <programme start="20190512031500 +0100" stop="20190512033000 +0100" channel="SICN">
+    <title lang="pt">Vamos a Jogo</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S1E9</episode-num>
+  </programme>
+  <programme start="20190512033000 +0100" stop="20190512034500 +0100" channel="SICN">
+    <title lang="pt">The Next Big Idea Magazine</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S7E9</episode-num>
+  </programme>
+  <programme start="20190512034500 +0100" stop="20190512043000 +0100" channel="SICN">
+    <title lang="pt">Toda a Verdade: Fugir da Venezuela</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20190512043000 +0100" stop="20190512053000 +0100" channel="SICN">
+    <title lang="pt">Expresso da Meia-Noite</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S10E17</episode-num>
+  </programme>
+  <programme start="20190512053000 +0100" stop="20190512060000 +0100" channel="SICN">
+    <title lang="pt">60 Minutos</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S9E32</episode-num>
+  </programme>
+  <programme start="20190512060000 +0100" stop="20190512070000 +0100" channel="SICN">
+    <title lang="pt">Panorama BBC</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20190512070000 +0100" stop="20190512071500 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512071500 +0100" stop="20190512073000 +0100" channel="SICN">
+    <title lang="pt">Terra Emergente</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S3E11</episode-num>
+  </programme>
+  <programme start="20190512073000 +0100" stop="20190512074500 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512074500 +0100" stop="20190512080000 +0100" channel="SICN">
+    <title lang="pt">Espaços &amp; Casas</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S11E19</episode-num>
+  </programme>
+  <programme start="20190512080000 +0100" stop="20190512081500 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512081500 +0100" stop="20190512083000 +0100" channel="SICN">
+    <title lang="pt">Golf Report</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S12E19</episode-num>
+  </programme>
+  <programme start="20190512083000 +0100" stop="20190512084500 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512084500 +0100" stop="20190512090000 +0100" channel="SICN">
+    <title lang="pt">Boa Cama Boa Mesa</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S10E6</episode-num>
+  </programme>
+  <programme start="20190512090000 +0100" stop="20190512091500 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512091500 +0100" stop="20190512093000 +0100" channel="SICN">
+    <title lang="pt">Contas Poupança</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S5E16</episode-num>
+  </programme>
+  <programme start="20190512093000 +0100" stop="20190512094500 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512094500 +0100" stop="20190512100000 +0100" channel="SICN">
+    <title lang="pt">Cartaz - Especial Fim de Semana</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S3E18</episode-num>
+  </programme>
+  <programme start="20190512100000 +0100" stop="20190512104500 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512104500 +0100" stop="20190512110000 +0100" channel="SICN">
+    <title lang="pt">Imagens de Marca</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S13E19</episode-num>
+  </programme>
+  <programme start="20190512110000 +0100" stop="20190512120000 +0100" channel="SICN">
+    <title lang="pt">Opinião Pública</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512120000 +0100" stop="20190512130000 +0100" channel="SICN">
+    <title lang="pt">Jornal do Meio-Dia</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512130000 +0100" stop="20190512140000 +0100" channel="SICN">
+    <title lang="pt">Primeiro Jornal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512140000 +0100" stop="20190512144500 +0100" channel="SICN">
+    <title lang="pt">Jornal das Duas</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512144500 +0100" stop="20190512150000 +0100" channel="SICN">
+    <title lang="pt">Exame Informática</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S7E10</episode-num>
+  </programme>
+  <programme start="20190512150000 +0100" stop="20190512160000 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512160000 +0100" stop="20190512170000 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512170000 +0100" stop="20190512180000 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512180000 +0100" stop="20190512190000 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512190000 +0100" stop="20190512203000 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512203000 +0100" stop="20190512204500 +0100" channel="SICN">
+    <title lang="pt">Volante</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S17E4</episode-num>
+  </programme>
+  <programme start="20190512204500 +0100" stop="20190512210000 +0100" channel="SICN">
+    <title lang="pt">Vida Extra</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E19</episode-num>
+  </programme>
+  <programme start="20190512210000 +0100" stop="20190512230000 +0100" channel="SICN">
+    <title lang="pt">Jornal de Domingo</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512230000 +0100" stop="20190513010000 +0100" channel="SICN">
+    <title lang="pt">Play-Off</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S3E19</episode-num>
+  </programme>
+  <programme start="20190513010000 +0100" stop="20190513013000 +0100" channel="SICN">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190513013000 +0100" stop="20190513014500 +0100" channel="SICN">
+    <title lang="pt">Comentário de Luís Marques Mendes</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S4E18</episode-num>
+  </programme>
+  <programme start="20190513014500 +0100" stop="20190513021500 +0100" channel="SICN">
+    <title lang="pt">Fala com Ela</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E12</episode-num>
+  </programme>
+  <programme start="20190513021500 +0100" stop="20190513034500 +0100" channel="SICN">
+    <title lang="pt">Play-Off</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S3E19</episode-num>
+  </programme>
+  <programme start="20190513034500 +0100" stop="20190513040000 +0100" channel="SICN">
+    <title lang="pt">Golf Report</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S12E19</episode-num>
+  </programme>
+  <programme start="20190513040000 +0100" stop="20190513041500 +0100" channel="SICN">
+    <title lang="pt">Exame Informática</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S7E10</episode-num>
+  </programme>
+  <programme start="20190513041500 +0100" stop="20190513043000 +0100" channel="SICN">
+    <title lang="pt">Imagens de Marca</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S13E19</episode-num>
+  </programme>
+  <programme start="20190513043000 +0100" stop="20190513050000 +0100" channel="SICN">
+    <title lang="pt">Verdade ou Consequência</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E16</episode-num>
+  </programme>
+  <programme start="20190513050000 +0100" stop="20190513060000 +0100" channel="SICN">
+    <title lang="pt">Panorama BBC</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20190513060000 +0100" stop="20190513094500 +0100" channel="SICN">
+    <title lang="pt">Edição da Manhã</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190513094500 +0100" stop="20190513100000 +0100" channel="SICN">
+    <title lang="pt">Espaços &amp; Casas</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S11E19</episode-num>
+  </programme>
+  <programme start="20190513100000 +0100" stop="20190513104500 +0100" channel="SICN">
+    <title lang="pt">Jornal das Dez</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190513104500 +0100" stop="20190513110000 +0100" channel="SICN">
+    <title lang="pt">The Next Big Idea</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S7E46</episode-num>
+  </programme>
+  <programme start="20190513110000 +0100" stop="20190513120000 +0100" channel="SICN">
+    <title lang="pt">Opinião Pública</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190513120000 +0100" stop="20190513131500 +0100" channel="SICN">
+    <title lang="pt">Jornal do Meio-Dia</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190513131500 +0100" stop="20190513133000 +0100" channel="SICN">
+    <title lang="pt">Vida Extra</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E19</episode-num>
+  </programme>
+  <programme start="20190513133000 +0100" stop="20190513134500 +0100" channel="SICN">
+    <title lang="pt">The Next Big Idea</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S7E46</episode-num>
+  </programme>
+  <programme start="20190513134500 +0100" stop="20190513144500 +0100" channel="SICN">
+    <title lang="pt">Jornal das Duas</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190513144500 +0100" stop="20190513150000 +0100" channel="SICN">
+    <title lang="pt">Cartaz</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S3E94</episode-num>
+  </programme>
+  <programme start="20190513150000 +0100" stop="20190513170000 +0100" channel="SICN">
+    <title lang="pt">Debate Quinzenal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190513170000 +0100" stop="20190513180000 +0100" channel="SICN">
+    <title lang="pt">Edição da Tarde</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190513180000 +0100" stop="20190513190000 +0100" channel="SICN">
+    <title lang="pt">Edição da Tarde</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190513190000 +0100" stop="20190513200000 +0100" channel="SICN">
+    <title lang="pt">Jornal das 7</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190513200000 +0100" stop="20190513210000 +0100" channel="SICN">
+    <title lang="pt">Edição da Noite</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190513210000 +0100" stop="20190513213000 +0100" channel="SICN">
+    <title lang="pt">Edição da Noite</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190513213000 +0100" stop="20190513220000 +0100" channel="SICN">
+    <title lang="pt">Polígrafo SIC</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E7</episode-num>
+  </programme>
+  <programme start="20190513220000 +0100" stop="20190514000000 +0100" channel="SICN">
+    <title lang="pt">O Dia Seguinte</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S12E18</episode-num>
   </programme>
 </tv>
